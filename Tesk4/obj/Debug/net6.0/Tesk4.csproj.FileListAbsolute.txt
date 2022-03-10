@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\bin\Debug\net6.0\Tesk4.exe
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\bin\Debug\net6.0\Tesk4.deps.json
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\bin\Debug\net6.0\Tesk4.runtimeconfig.json
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\bin\Debug\net6.0\Tesk4.dll
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\bin\Debug\net6.0\Tesk4.pdb
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.dll
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\refint\Tesk4.dll
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.pdb
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\Tesk4.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\Даша_Обучение\С#\Seminar1\Tesk4\obj\Debug\net6.0\ref\Tesk4.dll
